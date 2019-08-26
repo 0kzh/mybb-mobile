@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_font"
+        android:id="@+id/action_font" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_size"
+        android:id="@+id/action_size" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_bold"
+        android:id="@+id/action_bold" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_italic"
+        android:id="@+id/action_italic" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_underline"
+        android:id="@+id/action_underline" />
+
+
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_align_left"
+        android:id="@+id/action_align_left" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:background="@android:color/transparent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_align_center"
+        android:id="@+id/action_align_center" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:background="@android:color/transparent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_align_right"
+        android:id="@+id/action_align_right" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:background="@android:color/transparent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_align_justify"
+        android:id="@+id/action_align_justify" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:background="@android:color/transparent"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_list_numbered"
+        android:id="@+id/action_list_numbered" />
+
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_list_bulleted"
+        android:id="@+id/action_list_bulleted" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_image"
+        android:id="@+id/action_image" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_link_black"
+        android:id="@+id/action_link" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_quote"
+        android:id="@+id/action_quote" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_code"
+        android:id="@+id/action_code" />
+
+    <ImageButton
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_width="40dp"
+        android:background="@android:color/transparent"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_video"
+        android:id="@+id/action_video" />
+</LinearLayout>

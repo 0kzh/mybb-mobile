@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_lastpage.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_lastpage.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_index.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_index.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_forward.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_forward.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/dot_folder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/dot_folder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_setting.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_setting.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_signout.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_signout.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_mail.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_mail.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_align_right.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_align_right.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_delete.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_align_center.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_align_center.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_align_justify.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_align_justify.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_profile.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_profile.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_nextpage.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_nextpage.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_search.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_search.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/hotlockfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/hotlockfolder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/splash_logo.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/lockfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/lockfolder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_thread.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_thread.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/newfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/newfolder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_hide.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_hide.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_font.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_font.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/folder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/folder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_post.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_post.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_reply.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_reply.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_preview.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_preview.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_threads.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_threads.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/fw_pm.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/fw_pm.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/re_pm.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/re_pm.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_list_numbered.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_list_numbered.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_link_black.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_link_black.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/hotfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/hotfolder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_size.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_size.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_underline.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_underline.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_refresh.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_refresh.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_post.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_post.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_color.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_color.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_bold.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_bold.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_quote_white.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_quote_white.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_person.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_person.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/old_pm.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/old_pm.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_posts.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_posts.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/logo.9.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/logo.9.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_user.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_user.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_link.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_link.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_browser.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_browser.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_italic.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_italic.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/new_pm.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/new_pm.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_image.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_image.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_align_left.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_align_left.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_code.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_code.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_member.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_member.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_pm.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_pm.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/newlockfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/newlockfolder.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_quote.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_quote.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_go_forum.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_go_forum.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_video.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_video.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_list_bulleted.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_list_bulleted.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menu_new_post.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/ic_menu_new_post.png"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-mdpi/newhotfolder.png",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/drawable-mdpi/newhotfolder.png"
+    }
+]

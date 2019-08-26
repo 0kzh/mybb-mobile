@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/user_menu.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/user_menu.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/list.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/list.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/compose.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/compose.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/menu/page_menu.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/src/main/res/menu/page_menu.xml"
+    }
+]

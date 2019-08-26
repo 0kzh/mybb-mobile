@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:10:5-94:19
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/polunom/.android/build-cache/5107cc63f39838c2bc7f1a619a3cfa5bd008cc95/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/7f3dd25b826055020f5c6655293ad5b0d1f851b6/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/25d47d73faa70eff1a090cfcd9fed97783e4fbec/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/polunom/.android/build-cache/4442effb810427d29197fd19560986a558283b6d/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:percent:25.3.1] /Users/polunom/.android/build-cache/be724cd5f1b5189108cd4c6b19317f8a84d2f994/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/polunom/.android/build-cache/931e6a495fff5b10dd26c03373ca6f2337409e93/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/polunom/.android/build-cache/cebbcf23b5b2c6c10428a284f3986012aa307267/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/polunom/.android/build-cache/5a43c45e7e818d1ff79e3ceeafec64f3737f6adb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/polunom/.android/build-cache/90b683cfdd91177e50903171723e0e730e3b51a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/polunom/.android/build-cache/f76e1f39bbaa2ada3fce24ce7eb50c710c1ae68d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/polunom/.android/build-cache/2381ac46e0e8b92e791e1c2e05ed55b2b52d98ea/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/polunom/.android/build-cache/ceacd3b7380f898821f3bcd8b50afba9cb4c1f66/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:11:9-34
+activity#com.polunom.hfmobile.SplashActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:18:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.polunom.hfmobile.LoginActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:28:13-45
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:27:13-42
+activity#com.polunom.hfmobile.MainActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:34:9-38:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:37:13-56
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:36:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:35:13-41
+activity#com.polunom.hfmobile.ForumDisplayActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:39:9-44:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:42:13-65
+	android:parentActivityName
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:43:13-55
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:41:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:40:13-49
+activity#com.polunom.hfmobile.ThreadDisplayActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:45:9-49:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:48:13-66
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:47:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:46:13-50
+activity#com.polunom.hfmobile.EditorActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:50:9-54:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:53:13-58
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:52:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:54:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:51:13-43
+activity#com.polunom.hfmobile.ProfileActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:55:9-59:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:58:13-59
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:57:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:59:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:56:13-44
+activity#com.polunom.hfmobile.ReputationActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:60:9-64:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:63:13-62
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:62:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:61:13-47
+activity#com.polunom.hfmobile.BrowserActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:65:9-69:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:68:13-59
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:67:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:69:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:66:13-44
+activity#com.polunom.hfmobile.LightboxActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:70:9-74:53
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:73:13-60
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:72:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:74:13-50
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:71:13-45
+activity#com.polunom.hfmobile.InboxDisplayActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:75:9-79:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:78:13-65
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:77:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:79:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:76:13-49
+activity#com.polunom.hfmobile.PMDisplayActivity
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:80:9-84:59
+	android:label
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:83:13-62
+	android:configChanges
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:82:13-59
+	android:theme
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:84:13-56
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:81:13-46
+receiver#com.polunom.hfmobile.notifications.StartOnBoot
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:86:9-90:20
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:86:19-60
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:87:13-89:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:88:25-76
+receiver#com.polunom.hfmobile.notifications.CheckForPMs
+ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:92:9-63
+	android:name
+		ADDED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml:92:19-60
+uses-sdk
+INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.bignerdranch.android:expandablerecyclerview:3.0.0-RC1] /Users/polunom/.android/build-cache/efab20436bb81df4cdd345fd83957845142cdb89/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.1.2] /Users/polunom/.android/build-cache/924542ed9ecc0a84588a8b722c4c8062ea525723/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:25.3.1] /Users/polunom/.android/build-cache/5107cc63f39838c2bc7f1a619a3cfa5bd008cc95/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.3.1] /Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/7f3dd25b826055020f5c6655293ad5b0d1f851b6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/25d47d73faa70eff1a090cfcd9fed97783e4fbec/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/polunom/.android/build-cache/4442effb810427d29197fd19560986a558283b6d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:25.3.1] /Users/polunom/.android/build-cache/be724cd5f1b5189108cd4c6b19317f8a84d2f994/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /Users/polunom/.android/build-cache/931e6a495fff5b10dd26c03373ca6f2337409e93/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/polunom/.android/build-cache/cebbcf23b5b2c6c10428a284f3986012aa307267/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/polunom/.android/build-cache/5a43c45e7e818d1ff79e3ceeafec64f3737f6adb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/polunom/.android/build-cache/90b683cfdd91177e50903171723e0e730e3b51a9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/polunom/.android/build-cache/32f190673a77315ffba267236a64da0952495c8d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/polunom/.android/build-cache/f76e1f39bbaa2ada3fce24ce7eb50c710c1ae68d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/polunom/.android/build-cache/2381ac46e0e8b92e791e1c2e05ed55b2b52d98ea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/polunom/.android/build-cache/ceacd3b7380f898821f3bcd8b50afba9cb4c1f66/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/polunom/Downloads/HFMobile/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:25.3.1] /Users/polunom/.android/build-cache/5107cc63f39838c2bc7f1a619a3cfa5bd008cc95/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/7f3dd25b826055020f5c6655293ad5b0d1f851b6/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/polunom/.android/build-cache/25d47d73faa70eff1a090cfcd9fed97783e4fbec/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/polunom/.android/build-cache/4442effb810427d29197fd19560986a558283b6d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:percent:25.3.1] /Users/polunom/.android/build-cache/be724cd5f1b5189108cd4c6b19317f8a84d2f994/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/polunom/.android/build-cache/931e6a495fff5b10dd26c03373ca6f2337409e93/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/polunom/.android/build-cache/cebbcf23b5b2c6c10428a284f3986012aa307267/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/polunom/.android/build-cache/5a43c45e7e818d1ff79e3ceeafec64f3737f6adb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/polunom/.android/build-cache/90b683cfdd91177e50903171723e0e730e3b51a9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/polunom/.android/build-cache/32f190673a77315ffba267236a64da0952495c8d/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/polunom/.android/build-cache/f76e1f39bbaa2ada3fce24ce7eb50c710c1ae68d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/polunom/.android/build-cache/2381ac46e0e8b92e791e1c2e05ed55b2b52d98ea/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/polunom/.android/build-cache/5107cc63f39838c2bc7f1a619a3cfa5bd008cc95/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:cardview-v7:25.3.1] /Users/polunom/.android/build-cache/5107cc63f39838c2bc7f1a619a3cfa5bd008cc95/output/AndroidManifest.xml:23:9-47

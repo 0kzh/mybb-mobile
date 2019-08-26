@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/anim/design_fab_in.xml"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/nav_pm"
+            android:icon="@drawable/ic_menu_pm"
+            android:title="Private Messages" />
+        <item
+            android:id="@+id/nav_my_threads"
+            android:icon="@drawable/ic_menu_threads"
+            android:title="My Threads" />
+        <item
+            android:id="@+id/nav_my_posts"
+            android:icon="@drawable/ic_menu_posts"
+            android:title="My Posts" />
+        <item
+            android:id="@+id/nav_new_posts"
+            android:icon="@drawable/ic_menu_new_posts"
+            android:title="View New Posts" />
+        <item
+            android:id="@+id/nav_user_cp"
+            android:icon="@drawable/ic_menu_usercp"
+            android:title="UserCP" />
+    </group>
+
+    <item android:title="Actions">
+        <menu>
+            <item
+                android:id="@+id/nav_search"
+                android:icon="@drawable/ic_menu_search"
+                android:title="Search" />
+            <item
+                android:id="@+id/nav_members"
+                android:icon="@drawable/ic_menu_members"
+                android:title="Members" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"
+                android:title="Log out" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_settings"
+                android:title="App Settings" />
+        </menu>
+    </item>
+
+</menu>

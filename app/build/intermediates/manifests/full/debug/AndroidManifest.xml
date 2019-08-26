@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.polunom.hfmobile"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.polunom.hfmobile.HFBrowser"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.polunom.hfmobile.SplashActivity"
+            android:theme="@style/SplashTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.polunom.hfmobile.LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </activity>
+        <activity
+            android:name="com.polunom.hfmobile.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.ForumDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_forum_display"
+            android:parentActivityName="com.polunom.hfmobile.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.ThreadDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_thread_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.EditorActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_editor"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.ProfileActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.ReputationActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_reputation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.BrowserActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_browser"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.LightboxActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_lightbox"
+            android:theme="@style/Theme.Lightbox" />
+        <activity
+            android:name="com.polunom.hfmobile.InboxDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_inbox_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.polunom.hfmobile.PMDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_pm_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <receiver android:name="com.polunom.hfmobile.notifications.StartOnBoot" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.polunom.hfmobile.notifications.CheckForPMs" />
+    </application>
+
+</manifest>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fonts">
+        <item>Arial</item>
+        <item>Courier</item>
+        <item>Impact</item>
+        <item>Tahoma</item>
+        <item>Times New Roman</item>
+        <item>Trebuchet MS</item>
+        <item>Verdana</item>
+    </string-array>
+
+    <string-array name="text_sizes">
+        <item>XX Small</item>
+        <item>X Small</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>X Large</item>
+        <item>XX Large</item>
+    </string-array>
+</resources>

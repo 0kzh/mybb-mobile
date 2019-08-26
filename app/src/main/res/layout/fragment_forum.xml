@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="85">
+            <ImageView
+                android:id="@+id/threadIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="10dp"
+                android:maxHeight="20dp"
+                android:maxWidth="20dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:src="@drawable/folder"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/tContentWrapper"
+                android:clickable="true"
+                android:background="?attr/selectableItemBackground"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/threadContent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:layout_marginBottom="1dp"
+                    android:layout_marginTop="@dimen/text_margin"
+                    android:layout_marginLeft="10dp"
+                    android:textAppearance="?attr/textAppearanceListItem" />
+
+                <!-- Next row -->
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginBottom="6dp" >
+                    <TextView android:id="@+id/author"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="author" />
+
+                    <TextView android:id="@+id/replies"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="6dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="0 replies" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_weight="15"
+            android:id="@+id/goThread">
+            <ImageView
+                android:id="@+id/goTIcon"
+                android:layout_width="?android:attr/listPreferredItemHeight"
+                android:layout_height="match_parent"
+                android:scaleType="center"
+                android:layout_alignParentRight="true"
+                android:background="?attr/selectableItemBackground"
+                android:src="@drawable/ic_go_forum"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

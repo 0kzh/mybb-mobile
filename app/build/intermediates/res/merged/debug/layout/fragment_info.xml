@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#333">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:divider="@drawable/profile_divider_line"
+                android:showDividers="middle">
+                <LinearLayout
+                    android:id="@+id/userbarsHolder"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Additional Usergroups" />
+
+                    <HorizontalScrollView android:id="@+id/tools"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/text_margin"
+                        android:layout_alignParentBottom="true"
+                        android:scrollbars="none">
+
+                        <LinearLayout
+                            android:id="@+id/userbars"
+                            android:orientation="horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            xmlns:android="http://schemas.android.com/apk/res/android">
+                        </LinearLayout>
+
+                    </HorizontalScrollView>
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Status" />
+
+                    <TextView
+                        android:id="@+id/online"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Online"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+
+                    <TextView android:id="@+id/onlineDetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Viewing Profile of Polunom @ 11:34 PM" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Last Visit" />
+
+                    <TextView
+                        android:id="@+id/lastVisit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Today 11:34 PM"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="@dimen/text_margin"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Joined" />
+
+                    <TextView
+                        android:id="@+id/registration"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="04-08-2012"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="@dimen/text_margin"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Prestige" />
+
+                    <TextView
+                        android:id="@+id/prestige"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="197"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="@dimen/text_margin"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingBottom="16dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Reported Posts" />
+
+                    <TextView
+                        android:id="@+id/report"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="22"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+
+                    <TextView android:id="@+id/reportDetails"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Latest: 01-31-2015 12:23 PM" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="User ID" />
+
+                    <TextView
+                        android:id="@+id/userId"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="1250012"
+                        android:textColor="@android:color/white"
+                        android:layout_marginBottom="@dimen/text_margin"
+                        android:layout_marginLeft="10dp"
+                        android:textAppearance="?attr/textAppearanceListItem" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/text_margin"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="10dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Signature" />
+
+                    <WebView
+                        android:id="@+id/signature"
+                        android:clickable="false"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+</RelativeLayout>

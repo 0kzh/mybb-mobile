@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/polunom/.android/build-cache/38b414955a7852690b46b038ef9928896f3eddc1/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

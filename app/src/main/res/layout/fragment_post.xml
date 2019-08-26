@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:background="@android:color/transparent">
+        <TextView android:id="@+id/timestamp"
+            android:maxLines="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="1dp"
+            android:layout_marginLeft="13dp"
+            android:layout_marginTop="20dp"
+            android:textColor="#CCCCCC"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:id="@+id/userMenu"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:background="?attr/selectableItemBackground"
+                android:layout_weight="100">
+                <ImageView
+                    android:id="@+id/avatar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:maxHeight="120dp"
+                    android:maxWidth="120dp"
+                    android:layout_marginLeft="13dp"
+                    android:scaleType="fitCenter"
+                    android:adjustViewBounds="true"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:id="@+id/username"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textColor="@android:color/white"
+                            android:layout_marginBottom="1dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginLeft="13dp"
+                            android:textAppearance="?attr/textAppearanceListItem" />
+                    </LinearLayout>
+
+                    <!-- Next row -->
+                    <TextView android:id="@+id/status"
+                        android:maxLines="1"
+                        android:ellipsize="end"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="1dp"
+                        android:layout_marginLeft="13dp"
+                        android:textColor="#CCCCCC"
+                        android:textAppearance="?android:attr/textAppearanceSmall" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/userbarHolder"
+                android:layout_width="141dp"
+                android:clickable="false"
+                android:layout_height="match_parent">
+                <ImageView
+                    android:id="@+id/userbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitEnd"
+                    android:layout_alignParentRight="true"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <!-- Post Content -->
+    <com.polunom.hfmobile.FixedWebView
+        android:id="@+id/postContent"
+        tools:ignore="WebViewLayout"
+        android:clickable="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

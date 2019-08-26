@@ -1,0 +1,14 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_menu_home" type="drawable">@drawable/ic_menu_index</item>
+    <item name="ic_menu_profile" type="drawable">@drawable/ic_menu_person</item>
+    <item name="ic_menu_pm" type="drawable">@drawable/ic_menu_mail</item>
+    <item name="ic_menu_threads" type="drawable">@drawable/ic_menu_thread</item>
+    <item name="ic_menu_posts" type="drawable">@drawable/ic_menu_post</item>
+    <item name="ic_menu_new_posts" type="drawable">@drawable/ic_menu_new_post</item>
+    <item name="ic_menu_usercp" type="drawable">@drawable/ic_menu_user</item>
+
+    <item name="ic_menu_search" type="drawable">@drawable/ic_menu_search</item>
+    <item name="ic_menu_members" type="drawable">@drawable/ic_menu_member</item>
+    <item name="ic_menu_logout" type="drawable">@drawable/ic_menu_signout</item>
+    <item name="ic_menu_settings" type="drawable">@drawable/ic_menu_setting</item>
+</resources>

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_go_forum.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_go_forum.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_user.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_user.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_search.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_search.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_setting.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_setting.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_post.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_post.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_thread.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_thread.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_browser.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_browser.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_index.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_index.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_signout.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_signout.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_hide.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_hide.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_refresh.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_refresh.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_person.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_person.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_new_post.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_new_post.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_menu_mail.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_mail.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/polunom/.android/build-cache/75280517be88ec21d2e5c0be0c0ffbf61b2d05c0/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/polunom/Downloads/HFMobile/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_profile.xml",
+        "source": "/Users/polunom/Downloads/HFMobile/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_profile.xml"
+    }
+]

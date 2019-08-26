@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.polunom.hfmobile">
+
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <application
+        android:name=".HFBrowser"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ForumDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_forum_display"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ThreadDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_thread_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EditorActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_editor"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProfileActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ReputationActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_reputation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BrowserActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_browser"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LightboxActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_lightbox"
+            android:theme="@style/Theme.Lightbox" />
+        <activity
+            android:name=".InboxDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_inbox_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".PMDisplayActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/title_activity_pm_display"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <receiver android:name=".notifications.StartOnBoot">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".notifications.CheckForPMs" />
+
+    </application>
+
+</manifest>

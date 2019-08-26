@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/polunom/Downloads/HFMobile/app/libs/jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="/Users/polunom/Downloads/HFMobile/app/build/intermediates/pre-dexed/debug/jsoup-1.10.2_14002695502290804311b989763c4271782e0679.jar" />
+    </item>
+
+</items>
