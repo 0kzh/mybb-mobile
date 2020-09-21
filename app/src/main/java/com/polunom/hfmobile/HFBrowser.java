@@ -64,7 +64,7 @@ public class HFBrowser extends Application {
     }
 
     public void loadUrl(String url) {
-        Log.e("asdf", "navigating to: " + url);
+        Log.e("debug", "navigating to: " + url);
         mWebView.loadUrl(url);
         if (!url.startsWith("javascript")){
             murl = url;
